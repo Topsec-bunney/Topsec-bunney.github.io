@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 浮生若梦，一百年后，一朵花开的瞬间，尘埃落定。
 
-You can use the [editor on GitHub](https://github.com/Topsec-bunney/bunney.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
